@@ -6,7 +6,7 @@ public class Main {
 		
 //		The Strings are not primitive variables, they are a complex type, they are objects
 //		The objects often have methods/functionalities that we can use
-		String myName = "Deepika";
+		String myName = "Chiara";
 		int numberOfLettersInName = myName.length();
 		System.out.println("1. My name is " + myName + ". It is composed by " + numberOfLettersInName + " characters");
 		
